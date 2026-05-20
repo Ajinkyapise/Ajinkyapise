@@ -1,4 +1,4 @@
-```md
+
 # Hi, I'm Ajinkya Pise 👋
 
 Java Full Stack Engineer with 4+ years of experience building scalable enterprise applications using Java, Spring Boot, React.js, JavaScript, AWS, Kafka, and Microservices.
