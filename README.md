@@ -1,6 +1,7 @@
+```md
 # Hi, I'm Ajinkya Pise 👋
 
-Java Full Stack Engineer with 4+ years of experience building scalable enterprise applications across fintech, AI platforms, and cloud-native systems.
+Java Full Stack Engineer with 4+ years of experience building scalable enterprise applications using Java, Spring Boot, React.js, JavaScript, AWS, Kafka, and Microservices.
 
 ## Tech Stack
 
@@ -26,17 +27,12 @@ Java Full Stack Engineer with 4+ years of experience building scalable enterpris
 - GitHub Actions
 
 ## Featured Projects
-
-### Enterprise AI Platform
-React.js + Spring Boot based AI-driven platform with secure REST APIs, JWT authentication, and scalable backend architecture.
-
-### Fintech Dashboard
-Full-stack banking dashboard with transaction analytics, payments workflow, and secure authentication.
-
-### Kafka Event-Driven System
-Distributed microservices architecture using Apache Kafka for real-time processing.
+- Real-Time Stock Price Tracker
+- Bank Management System
+- MERN Stack Applications
+- Social Media Platform
 
 ## Connect With Me
-
 - LinkedIn: https://linkedin.com/in/pise-ajinkya-abhinay
 - Email: piseajinkya999@gmail.com
+```
